@@ -1,0 +1,40 @@
+#img{
+    width: 200px;
+    height: 240px;
+    border: 2px solid rgb(16, 16, 119);
+    border-radius: 80px;
+    top:100px;
+    bottom: 100px;
+}
+
+body{
+   /* background-image: linear-gradient(#7bdbd3 30%, #cdeba4 40%, 0);*/
+
+   background-image: linear-gradient(#97bac9 40%, rgb(188, 238, 188) 35%, rgb(177, 177, 219) 20%);
+
+  /*background-image: conic-gradient(from 90deg, rgb(51, 136, 103), rgb(70, 161, 123), rgb(55, 91, 100));*/
+    margin: 20px;
+    color: rgb(16, 16, 119);
+}
+
+#text{
+    
+    top:140px;
+    position: absolute;
+    margin-left: 300px;
+}
+#h{
+    color: rgb(16, 16, 119);
+}
+#logo{
+    width:400px;
+    height: 140px;
+    box-shadow: 3px 3px 3px palegreen ;
+}
+#t1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 27px;
+    font-style: italic;
+    color:navy;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
